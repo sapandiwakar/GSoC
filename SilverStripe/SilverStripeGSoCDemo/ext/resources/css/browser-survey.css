@@ -1,0 +1,8 @@
+<style type="text/css">
+        .error {
+            background-image:url(../resources/images/survey/error.png) !important;
+        }
+        .warning {
+            background-image:url(../resources/images/survey/cancel.gif) !important;
+        }
+</style>
