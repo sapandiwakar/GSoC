@@ -67,7 +67,7 @@ Ext.onReady(function() {
 		 	     style		: 'margin:50;margin-top:50;',
 		 	     width      : 550,
 		 	     items: [
-		 	     			nameTextField, emailTextField, getNewLabel('Disabled on</font><font size="2">'), favBrowserCheckBoxGroup, commentTextArea
+		 	     			nameTextField, emailTextField, getNewLabel('Choose your favorite browser(s)</font><font size="2">'), favBrowserCheckBoxGroup, commentTextArea
 		 	            ],
 		 	 
 		 	     buttons: [{
@@ -311,7 +311,7 @@ Ext.onReady(function() {
 							        ],
 							        height: 350,
 							        width: 600,
-							        title: 'Array Grid',
+							        title: 'Survey Results',
 							        renderTo: 'survey-result',
 							        viewConfig: {
 							            stripeRows: true
